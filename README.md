@@ -16,10 +16,10 @@ The architecture of our Attentive Multiview Neural Model (AMNM). For simplicity,
 
 ## Instructions
 
-Update the $read\_data()$ function in utils.py to read data for processing. Detailed instruction are add to the code as comments. 
+Update the read_data() function in utils.py to read data for processing. Detailed instruction are add to the code as comments. 
 
 
 ## Citation 
 
-Hadi Amiri, Mitra Mohtarami, Isaac S. Kohane. "Attentive Multiview Text Representation for Differential Diagnosis." In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL'21).  
+Hadi Amiri, Mitra Mohtarami, Isaac S. Kohane. [Attentive Multiview Text Representation for Differential Diagnosis](https://aclanthology.org/2021.acl-short.128.pdf). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL'21).  
 [pdf](https://aclanthology.org/2021.acl-short.128.pdf), [supp](https://aclanthology.org/attachments/2021.acl-short.128.OptionalSupplementaryMaterial.pdf), [slides](files/amnn_acl2021.pdf), [talk](files/amnn_565.mp4)
