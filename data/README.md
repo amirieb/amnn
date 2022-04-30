@@ -8,6 +8,6 @@ Click on the following link to submit an online access request at dbGaP [Clinica
 
 
 **OMIM Data**
-OMIM dataset is publicly avaialble and can be obtained through their well-developed REST-based API, see [OMIM API](https://www.omim.org/api).
+OMIM dataset is publicly avaialble and can be obtained through their well-developed REST-based API, see [OMIM API](https://www.omim.org/api) or use the code we developed for this purpose: [https://github.com/amirieb/omim-api](https://github.com/amirieb/omim-api).
 
 
